@@ -162,8 +162,6 @@ int main(int argc, char **argv)
             printf("\nInvalid argument.\n ");
             exit(4);
             break;
-        default:
-            printf("\nTEST = default\n ");
         }
     }
 
